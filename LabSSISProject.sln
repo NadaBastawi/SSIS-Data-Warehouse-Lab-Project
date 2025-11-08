@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33414.496
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{C9674DCB-5085-4A16-B785-4C70DD1589BD}") = "LabSSISProject", "LabSSISProject\LabSSISProject.dtproj", "{8F732A17-EFB1-48FA-8446-CC7F0D5E6F72}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Development|Default = Development|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8F732A17-EFB1-48FA-8446-CC7F0D5E6F72}.Development|Default.ActiveCfg = Development
+		{8F732A17-EFB1-48FA-8446-CC7F0D5E6F72}.Development|Default.Build.0 = Development
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {290AC71C-FC54-42EC-867D-962209BD6295}
+	EndGlobalSection
+EndGlobal
